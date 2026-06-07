@@ -7,8 +7,6 @@ The Eldritch Abyss (Eldritch Darker) color scheme for iTerm2.
 
 * [Eldritch color scheme](https://github.com/eldritch-theme/eldritch)<br/>
 
-Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
-
 *Eldritch Abyss.itermcolors*
 
 <img width="260" height="83" alt="EldritchAbyssiTerm1" src="https://github.com/user-attachments/assets/e503fd8c-d7ee-4154-978f-cb5edaab5bec" /><br/>
