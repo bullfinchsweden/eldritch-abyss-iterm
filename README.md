@@ -3,7 +3,7 @@ The Eldritch Abyss (Eldritch Darker) color scheme for iTerm2.
 
 <img width="103" height="103" alt="Octopus" src="https://github.com/user-attachments/assets/4c55d215-9c9c-4b09-9c33-24abb69d8e7a" /><br/>
 
-* [Ghostty for macOS and Linux](https://ghostty.org/)
+* [iTerm2 for macOS](https://iterm2.com/)
 
 * [Eldritch color scheme](https://github.com/eldritch-theme/eldritch)<br/>
 
