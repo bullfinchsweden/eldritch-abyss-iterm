@@ -9,6 +9,6 @@ The Eldritch Abyss (Eldritch Darker) color scheme for iTerm2.
 
 *Eldritch Abyss.itermcolors*
 
-<img src="Images/MidnightCityColors1.png" width="260" height="83" /><br/>
+<img src="Images/EldritchAbyssiTerm1.png" width="260" height="83" /><br/>
 
-<img src="Images/MidnightCityColors2.png" width="785" height="398" />
+<img src="Images/EldritchAbyssiTerm2.png" width="785" height="398" />
