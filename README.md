@@ -5,7 +5,7 @@ The Eldritch Abyss (Eldritch Darker) color scheme for iTerm2.
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
-* [Eldritch](https://github.com/eldritch-theme/eldritch)<br/>
+* [Eldritch](https://github.com/eldritch-theme)<br/>
 
 <img src="Images/Eldritch.jpg" width="768" height="320" /><br/>
 
